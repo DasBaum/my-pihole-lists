@@ -16,3 +16,5 @@ rabbitfiles.com
 perr.hola.org
 hola.org
 accounts.clickbank.com
+fiverr.ck-cdn.com
+central.ck-cdn.com
